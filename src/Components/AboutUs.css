@@ -1,0 +1,11 @@
+.aboutus{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: justify;
+    height: max-content;
+    border-radius: 10px;
+    transition: all 0.3s;
+}
+.aboutus:hover{
+    box-shadow: 5px 5px 18px rgba(0, 0, 0, 0.5);
+}
